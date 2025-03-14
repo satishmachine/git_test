@@ -8,3 +8,6 @@ This is to test merge conflict.
 
 This is from stage branch
 
+
+
+this is stage added
